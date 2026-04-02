@@ -6,7 +6,7 @@ def deneme2 ():
 	print("robotik")
 
 
-def __name__ == '__main__':
+if __name__ == '__main__':
 	ilk()
 	print("dene")
 	a=4
